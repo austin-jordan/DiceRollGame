@@ -2,6 +2,13 @@ import java.util.Scanner;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
+
+/**
+ * @author austinjordan
+ *This application is designed to simulate having 2 dice. 
+ *The user must select how many sides the pair of dice have.
+ *Then the game prompts the user to choose whether they want to play again or just stop there.
+ */
 public class DiceRoll {
 	static String roll;
 	static int min;
